@@ -1,3 +1,3 @@
 fn main() {
-    let _x: i32 = 256;
+    println!("Hello World");
 }
